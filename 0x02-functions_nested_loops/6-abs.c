@@ -12,7 +12,7 @@ int absvalue;
 if (k < 0)
 {
 k = k * (-1);
-}	
+}
 absvalue = k;
 return (absvalue);
-}	
+}
